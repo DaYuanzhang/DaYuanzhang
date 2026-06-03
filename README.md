@@ -21,7 +21,7 @@
 
 ### CVE / Advisory
 
-- **GHSA-22cv-9jv2-6m62**  
+- **CVE-2026-48787 / GHSA-22cv-9jv2-6m62**  
   Security Advisory for `flipped-aurora/gin-vue-admin`  
   🔗 [View Advisory](https://github.com/flipped-aurora/gin-vue-admin/security/advisories/GHSA-22cv-9jv2-6m62)
 
@@ -91,3 +91,4 @@ Security Tooling    ███████████████░░░░░
 <p align="center">
   <sub>Security is not only about finding bugs, but understanding systems.</sub>
 </p>
+
