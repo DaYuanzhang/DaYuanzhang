@@ -84,7 +84,6 @@ Security Tooling    ███████████████░░░░░
 ## 📫 Contact
 
 - GitHub: [@DaYuanzhang](https://github.com/DaYuanzhang)
-- Email: `849283801@qq.com`
 
 ---
 
