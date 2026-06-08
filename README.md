@@ -1,14 +1,7 @@
-# Dean 😁
 
-> Web Security Researcher · Code Audit · Vulnerability Research
+> Web Security Researcher · Code Audit · Vulnerability Research · AI Security
 
-专注于 **Web 安全、代码审计与漏洞挖掘**的脚本小子。
-
----
-
-## 🧭 About Me
-
-- 🔍 主要研究：AI在网络安全行业的落地实践
+专注于 **Web 安全、代码审计、漏洞挖掘、AI安全**的脚本小子。
 
 ---
 
